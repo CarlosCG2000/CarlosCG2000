@@ -30,12 +30,12 @@
       <img src="https://cdn.iconscout.com/icon/free/png-256/free-angular-3628622-3029847.png?f=webp" alt="Angular" height="100">
     </td>
     <td align="center">
-      <strong>React</strong><br>
-      <img src="https://cdn1.iconfinder.com/data/icons/programing-development-8/24/react_logo-512.png" alt="React" height="100">
+      <strong>Ionic</strong><br>
+      <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/ionic-icon.png" alt="Ionic" height="100">
     </td>
     <td align="center">
-      <strong>Redux</strong><br>
-      <img src="https://cdn.freebiesupply.com/logos/large/2x/redux-logo-svg-vector.svg" alt="Redux" height="100">
+      <strong>React</strong><br>
+      <img src="https://cdn1.iconfinder.com/data/icons/programing-development-8/24/react_logo-512.png" alt="React" height="100">
     </td>
   </tr>
   <tr>
@@ -48,12 +48,12 @@
       <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/express_original_logo_icon_146527.png" alt="Express" height="100">
     </td>
     <td align="center">
-      <strong>Next.js</strong><br>
-      <img src="https://static-00.iconduck.com/assets.00/nextjs-icon-512x512-y563b8iq.png" alt="Next.js" height="100">
-    </td>
-    <td align="center">
       <strong>Jest</strong><br>
       <img src="https://cdn.freebiesupply.com/logos/large/2x/jest-logo-png-transparent.png" alt="Jest" height="100">
+    </td>
+    <td align="center">
+      <strong>Firebase</strong><br>
+      <img src="https://styles.redditmedia.com/t5_301qk/styles/communityIcon_bq715eo6t52d1.png" alt="Firebase" height="100">
     </td>
     <td align="center">
       <strong>MongoDB</strong><br>
@@ -66,20 +66,16 @@
       <img src="https://imgs.search.brave.com/6op4FNj3SS_Zu-z12YE3jQV4Hlj6bRXN_N6YLciaom8/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9jZG4t/aWNvbnMtcG5nLmZy/ZWVwaWsuY29tLzI1/Ni8zOTkyLzM5OTI2/NDgucG5nP3NlbXQ9/YWlzX2h5YnJpZA" alt="Swift" height="100">
     </td>
   <td align="center">
-      <strong>Ionic</strong><br>
-      <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/ionic-icon.png" alt="Ionic" height="100">
-    </td>
-    <td align="center">
-      <strong>Firebase</strong><br>
-      <img src="https://styles.redditmedia.com/t5_301qk/styles/communityIcon_bq715eo6t52d1.png" alt="Firebase" height="100">
-    </td>
-  <td align="center">
       <strong>Bootstrap</strong><br>
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png" alt="Bootstrap" height="100">
     </td>
   <td align="center">
       <strong>Git</strong><br>
       <img src="https://imgs.search.brave.com/mV85qRj1fj9oRhGLOq0I_axKnmC0V54UuIagcQEQdHI/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9zdGF0/aWMtMDAuaWNvbmR1/Y2suY29tL2Fzc2V0/cy4wMC9naXQtaWNv/bi0yNTZ4MjU2LW5r/aTUxYWUzLnBuZw" alt="Git" height="100">
+    </td>
+     <td align="center">
+      <strong>Redux</strong><br>
+      <img src="https://cdn.freebiesupply.com/logos/large/2x/redux-logo-svg-vector.svg" alt="Redux" height="100">
     </td>
   </tr>
 </table>
