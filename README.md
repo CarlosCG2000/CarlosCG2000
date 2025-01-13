@@ -10,7 +10,7 @@
     <img src="https://komarev.com/ghpvc/?username=matiasdonato&label=Profile%20views&color=0e75b6&style=flat" alt="matiasdonato" />
   </div>
 
- #### [MI PORTFOLIO](https://carloscg-porfolio.netlify.app/) | [LINKEDIN](https://www.linkedin.com/in/carlos-cano-gomez-655463141)
+ #### [MI PORTFOLIO](https://carloscg-porfolio.netlify.app/) | [MI LINKEDIN](https://www.linkedin.com/in/carlos-cano-gomez-655463141)
 
   <h3>Algunos de mis lenguajes favoritos y herramientas:</h3>
    <table>
