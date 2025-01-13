@@ -1,3 +1,5 @@
+<div align="center">
+
 <h1 align="center">Hola, soy Carlos Caño 😁</h1>
 
 ### 📊 Mis estadísticas en GitHub
@@ -5,7 +7,6 @@
 
 <p align="center">Estoy cursando actualmente un máster universitario de informática móvil (MIMO). Graduado en ingeniería informática en mención del software en la UPSA. De Salamanca, España.</p>
 
-<div align="center">
   <div>
     <img src="https://komarev.com/ghpvc/?username=matiasdonato&label=Profile%20views&color=0e75b6&style=flat" alt="matiasdonato" />
   </div>
@@ -14,7 +15,6 @@
 </div>
 
 &nbsp;
-  <div align="center">
     <h4>Algunos de mis lenguajes favoritos y herramientas:</h4>
    <table>
   <tr>
