@@ -78,7 +78,10 @@
       <strong>Bootstrap</strong><br>
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png" alt="Bootstrap" height="100">
     </td>
- 
+  <td align="center">
+      <strong>Git</strong><br>
+      <img src="https://imgs.search.brave.com/mV85qRj1fj9oRhGLOq0I_axKnmC0V54UuIagcQEQdHI/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9zdGF0/aWMtMDAuaWNvbmR1/Y2suY29tL2Fzc2V0/cy4wMC9naXQtaWNv/bi0yNTZ4MjU2LW5r/aTUxYWUzLnBuZw" alt="Git" height="100">
+    </td>
   </tr>
 </table>
 
