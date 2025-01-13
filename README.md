@@ -4,10 +4,20 @@
 </div>
 
 <div align="center" style="display: flex; gap: 800px;">
-  <a href="https://carloscg-porfolio.netlify.app/" style="fontsize: 16px;">MI PORTFOLIO</a>
+  <a href="https://carloscg-porfolio.netlify.app/">MI PORTFOLIO</a>
    | 
   <a href="https://www.linkedin.com/in/carlos-cano-gomez-655463141">MI LINKEDIN</a>
 </div>
+
+<p align="center">
+    <a href="https://carloscg-porfolio.netlify.app/">
+        <img src="https://img.shields.io/badge/Portfolio-blue?style=for-the-badge" alt="Portfolio">
+    </a>
+    <a href="https://www.linkedin.com/in/carlos-cano-gomez-655463141">
+        <img src="https://img.shields.io/badge/LinkedIn-green?style=for-the-badge" alt="LinkedIn">
+    </a>
+</p>
+
   
 <div align="center">
   
