@@ -3,15 +3,10 @@
   <h1 align="center">Hola, soy Carlos Caño 😁</h1> 
   <h3 align="center">Estoy cursando actualmente un máster universitario de informática móvil (MIMO). Graduado en ingeniería informática en mención del software en la UPSA. De Salamanca, España.</h3>
 
-![Profile views](https://komarev.com/ghpvc/?username=CarlosCG2000&label=Profile%20views&color=0e75b6&style=flat)
-
-  <div>
-    <img src="https://komarev.com/ghpvc/?username=matiasdonato&label=Profile%20views&color=0e75b6&style=flat" alt="matiasdonato" />
-  </div>
-
   #### [MI PORTFOLIO](https://carloscg-porfolio.netlify.app/)         |         [MI LINKEDIN](https://www.linkedin.com/in/carlos-cano-gomez-655463141)
 
   <h3>Algunos de mis lenguajes favoritos y herramientas:</h3>
+  
   <table>
     <tr>
       <td align="center">
@@ -83,6 +78,8 @@
 
   ## 📊 Mis estadísticas en GitHub
   ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=CarlosCG2000&show_icons=true&theme=radical)
+
+  ![Profile views](https://komarev.com/ghpvc/?username=CarlosCG2000&label=Profile%20views&color=0e75b6&style=flat)
 
 </div>
 
