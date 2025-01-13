@@ -3,7 +3,16 @@
   <h1 align="center">¡Hola, soy Carlos Caño 😁!</h1> 
   <h3 align="center">Estoy cursando actualmente un máster universitario de informática móvil (MIMO). Graduado en ingeniería informática en mención del software en la UPSA. De Salamanca, España.</h3>
 
-  #### [MI PORTFOLIO](https://carloscg-porfolio.netlify.app/)         |         [MI LINKEDIN](https://www.linkedin.com/in/carlos-cano-gomez-655463141)
+  <table width="100%">
+    <tr>
+      <td align="left">
+        <a href="https://carloscg-porfolio.netlify.app/">MI PORTFOLIO</a>
+      </td>
+      <td align="right">
+        <a href="https://www.linkedin.com/in/carlos-cano-gomez-655463141">MI LINKEDIN</a>
+      </td>
+    </tr>
+  </table>
 
   <h3>Algunos de mis lenguajes favoritos y herramientas:</h3>
   
