@@ -2,7 +2,7 @@
 
 <h1 align="center">Hola, soy Carlos Caño 😁</h1>
 
-### 📊 Mis estadísticas en GitHub
+<h2 align="center"> 📊 Mis estadísticas en GitHub </h2>
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=CarlosCG2000&show_icons=true&theme=radical)
 
 <h3 align="center">Estoy cursando actualmente un máster universitario de informática móvil (MIMO). Graduado en ingeniería informática en mención del software en la UPSA. De Salamanca, España.</h3>
@@ -45,7 +45,7 @@
     </td>
     <td align="center">
       <strong>Express</strong><br>
-      <img src="https://imgs.search.brave.com/NZCZj7F6WLOy36XDwPTDmlaU-9_feGT_fF4zYRIf9WU/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy82/LzY0L0V4cHJlc3Nq/cy5wbmc" alt="Express" height="100">
+      <img src="[https://imgs.search.brave.com/NZCZj7F6WLOy36XDwPTDmlaU-9_feGT_fF4zYRIf9WU/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy82/LzY0L0V4cHJlc3Nq/cy5wbmc](https://kinsta.com/wp-content/uploads/2022/04/express-1.png)" alt="Express" height="100">
     </td>
     <td align="center">
       <strong>Jest</strong><br>
@@ -71,7 +71,7 @@
     </td>
       <td align="center">
       <strong>Angular Material</strong><br>
-      <img src="" alt="Material Angular" height="100">
+      <img src="https://imgs.search.brave.com/GB5eyk58hZ13bnKAbXjvK1NUoMg5yPg2NR2tMoQE7bQ/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy90/aHVtYi9jL2M3L0dv/b2dsZV9NYXRlcmlh/bF9EZXNpZ25fTG9n/by5zdmcvMjIwcHgt/R29vZ2xlX01hdGVy/aWFsX0Rlc2lnbl9M/b2dvLnN2Zy5wbmc" alt="Material Angular" height="100">
     </td>
   <td align="center">
       <strong>Git</strong><br>
