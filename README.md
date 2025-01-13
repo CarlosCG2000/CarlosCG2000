@@ -55,7 +55,7 @@
     </td>
     <td align="center">
       <strong>MongoDB</strong><br>
-      <img src="https://imgs.search.brave.com/baqxRx80TOo5ld_WmyQlbfmgqtR3PBKyCFtDtbtpwrg/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9zdGF0/aWMtMDAuaWNvbmR1/Y2suY29tL2Fzc2V0/cy4wMC9kYXRhYmFz/ZS1tb25nby1kYi1p/Y29uLTE5NTR4MjA0/OC13cnczMmU5bC5w/bmc" alt="MongoDB" height="100">
+      <img src="https://imgs.search.brave.com/VLnEHonS4KKeXOOed6bulOU3YlEOOD8PhLf5Tjk-Jkk/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/cG5nYWxsLmNvbS93/cC1jb250ZW50L3Vw/bG9hZHMvMTMvTW9u/Z29kYi1QTkctUGlj/LnBuZw" alt="MongoDB" height="100">
     </td>
   </tr>
   <tr>
