@@ -12,7 +12,6 @@
   </div>
   <h4>My Porfolio: https://carloscg-porfolio.netlify.app/</h4>
   <h4>Linkedin: https://www.linkedin.com/in/carlos-cano-gomez-655463141/</h4>
-</div>
 
 &nbsp;
     <h4>Algunos de mis lenguajes favoritos y herramientas:</h4>
@@ -64,15 +63,15 @@
   <tr>
     <td align="center">
       <strong>Swift</strong><br>
-      <img src="[https://seeklogo.com/images/M/mongodb-logo-D13D67C930-seeklogo.com.png](https://imgs.search.brave.com/6op4FNj3SS_Zu-z12YE3jQV4Hlj6bRXN_N6YLciaom8/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9jZG4t/aWNvbnMtcG5nLmZy/ZWVwaWsuY29tLzI1/Ni8zOTkyLzM5OTI2/NDgucG5nP3NlbXQ9/YWlzX2h5YnJpZA)" alt="Swift" height="100">
+      <img src="https://imgs.search.brave.com/6op4FNj3SS_Zu-z12YE3jQV4Hlj6bRXN_N6YLciaom8/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9jZG4t/aWNvbnMtcG5nLmZy/ZWVwaWsuY29tLzI1/Ni8zOTkyLzM5OTI2/NDgucG5nP3NlbXQ9/YWlzX2h5YnJpZA" alt="Swift" height="100">
     </td>
   <td align="center">
       <strong>Ionic</strong><br>
-      <img src="https://www.reddit.com/r/ionic/comments/16unpwu/unable_to_use_ionicon/?tl=es-es" alt="Ionic" height="100">
+      <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/ionic-icon.png" alt="Ionic" height="100">
     </td>
     <td align="center">
       <strong>Firebase</strong><br>
-      <img src="https://developers.google.com/" alt="Firebase" height="100">
+      <img src="https://styles.redditmedia.com/t5_301qk/styles/communityIcon_bq715eo6t52d1.png" alt="Firebase" height="100">
     </td>
   <td align="center">
       <strong>Bootstrap</strong><br>
