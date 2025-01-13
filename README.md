@@ -3,14 +3,14 @@
   <h3 align="center">Estoy cursando actualmente un máster universitario de informática móvil (MIMO). Graduado en ingeniería informática en mención del software en la UPSA. De Salamanca, España.</h3>
 </div>
 
-<p align="center">
+<h2 align="center">
     <a href="https://carloscg-porfolio.netlify.app/">
         <img src="https://img.shields.io/badge/Portfolio-blue?style=for-the-badge" alt="Portfolio">
     </a>
     <a href="https://www.linkedin.com/in/carlos-cano-gomez-655463141">
         <img src="https://img.shields.io/badge/LinkedIn-green?style=for-the-badge" alt="LinkedIn">
     </a>
-</p>
+</h2>
 
 <div align="center">
   
