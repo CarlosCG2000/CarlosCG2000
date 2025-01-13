@@ -1,7 +1,5 @@
 <div align="center">
-
-<h1 align="center">Hola, soy Carlos Caño 😁</h1>
-
+<!-- <h1 align="center">Hola, soy Carlos Caño 😁</h1> -->
 ## 📊 Mis estadísticas en GitHub
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=CarlosCG2000&show_icons=true&theme=radical)
 
