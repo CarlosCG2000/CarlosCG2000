@@ -5,7 +5,7 @@
 ### 📊 Mis estadísticas en GitHub
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=CarlosCG2000&show_icons=true&theme=radical)
 
-<p align="center">Estoy cursando actualmente un máster universitario de informática móvil (MIMO). Graduado en ingeniería informática en mención del software en la UPSA. De Salamanca, España.</p>
+<h3 align="center">Estoy cursando actualmente un máster universitario de informática móvil (MIMO). Graduado en ingeniería informática en mención del software en la UPSA. De Salamanca, España.</h3>
 
   <div>
     <img src="https://komarev.com/ghpvc/?username=matiasdonato&label=Profile%20views&color=0e75b6&style=flat" alt="matiasdonato" />
@@ -45,7 +45,7 @@
     </td>
     <td align="center">
       <strong>Express</strong><br>
-      <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/express_original_logo_icon_146527.png" alt="Express" height="100">
+      <img src="https://imgs.search.brave.com/NZCZj7F6WLOy36XDwPTDmlaU-9_feGT_fF4zYRIf9WU/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy82/LzY0L0V4cHJlc3Nq/cy5wbmc" alt="Express" height="100">
     </td>
     <td align="center">
       <strong>Jest</strong><br>
@@ -68,6 +68,10 @@
   <td align="center">
       <strong>Bootstrap</strong><br>
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png" alt="Bootstrap" height="100">
+    </td>
+      <td align="center">
+      <strong>Angular Material</strong><br>
+      <img src="" alt="Material Angular" height="100">
     </td>
   <td align="center">
       <strong>Git</strong><br>
