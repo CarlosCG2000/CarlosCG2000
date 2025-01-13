@@ -2,6 +2,8 @@
   
   <h1 align="center">¡Hola, soy Carlos Caño 😁!</h1> 
   <h3 align="center">Estoy cursando actualmente un máster universitario de informática móvil (MIMO). Graduado en ingeniería informática en mención del software en la UPSA. De Salamanca, España.</h3>
+  
+</div>
 
   <table width="100%">
     <tr>
@@ -13,7 +15,9 @@
       </td>
     </tr>
   </table>
-
+  
+<div align="center">
+  
   <h3>Algunos de mis lenguajes favoritos y herramientas:</h3>
   
   <table>
