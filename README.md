@@ -10,7 +10,7 @@
   <div>
     <img src="https://komarev.com/ghpvc/?username=matiasdonato&label=Profile%20views&color=0e75b6&style=flat" alt="matiasdonato" />
   </div>
-  <h4>My Porfolio: https://carloscg-porfolio.netlify.app/</h4>
+  <h4>Mi Porfolio: https://carloscg-porfolio.netlify.app/</h4>
   <h4>Linkedin: https://www.linkedin.com/in/carlos-cano-gomez-655463141/</h4>
 
 &nbsp;
