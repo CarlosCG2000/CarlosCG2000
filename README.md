@@ -2,9 +2,9 @@
 
 <h1 align="center">Hola, soy Carlos Caño 😁</h1>
 
-<h2 align="center"> 📊 Mis estadísticas en GitHub
+## 📊 Mis estadísticas en GitHub
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=CarlosCG2000&show_icons=true&theme=radical)
- </h2>
+
 <h3 align="center">Estoy cursando actualmente un máster universitario de informática móvil (MIMO). Graduado en ingeniería informática en mención del software en la UPSA. De Salamanca, España.</h3>
 
   <div>
