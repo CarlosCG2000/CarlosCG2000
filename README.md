@@ -5,7 +5,7 @@
 
 <div align="center" style="display: flex; gap: 800px;">
   <a href="https://carloscg-porfolio.netlify.app/">MI PORTFOLIO</a>
-  -
+   | 
   <a href="https://www.linkedin.com/in/carlos-cano-gomez-655463141">MI LINKEDIN</a>
 </div>
   
