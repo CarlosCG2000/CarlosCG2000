@@ -13,8 +13,7 @@
   <h4>Mi Porfolio: https://carloscg-porfolio.netlify.app/</h4>
   <h4>Linkedin: https://www.linkedin.com/in/carlos-cano-gomez-655463141/</h4>
 
-&nbsp;
-    <h4>Algunos de mis lenguajes favoritos y herramientas:</h4>
+  <h3>Algunos de mis lenguajes favoritos y herramientas:</h3>
    <table>
   <tr>
     <td align="center">
