@@ -63,6 +63,14 @@
       <strong>Express</strong><br>
       <img src="https://imgs.search.brave.com/M4VVbZbWznYmGmK_UapYaFDGlC9bFryIQju7XWcOy5w/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jbG91/ZC5naXRodWJ1c2Vy/Y29udGVudC5jb20v/YXNzZXRzLzk1MDEx/Mi8xNDA4MDc0MC84/ZjkyMDM3YS1mNTI0/LTExZTUtOGM1Mi0y/N2E5YWM2M2FmNTAu/cG5n" alt="Express" height="100">
     </td>
+    <td align="center">
+      <strong>Git</strong><br>
+      <img src="https://imgs.search.brave.com/mV85qRj1fj9oRhGLOq0I_axKnmC0V54UuIagcQEQdHI/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9zdGF0/aWMtMDAuaWNvbmR1/Y2suY29tL2Fzc2V0/cy4wMC9naXQtaWNv/bi0yNTZ4MjU2LW5r/aTUxYWUzLnBuZw" alt="Git" height="100">
+    </td>
+     <td align="center">
+      <strong>Redux</strong><br>
+      <img src="https://cdn.freebiesupply.com/logos/large/2x/redux-logo-svg-vector.svg" alt="Redux" height="100">
+    </td>
   <td align="center">
       <strong>Bootstrap</strong><br>
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png" alt="Bootstrap" height="100">
@@ -70,14 +78,6 @@
       <td align="center">
       <strong>Angular Material</strong><br>
       <img src="https://imgs.search.brave.com/GB5eyk58hZ13bnKAbXjvK1NUoMg5yPg2NR2tMoQE7bQ/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy90/aHVtYi9jL2M3L0dv/b2dsZV9NYXRlcmlh/bF9EZXNpZ25fTG9n/by5zdmcvMjIwcHgt/R29vZ2xlX01hdGVy/aWFsX0Rlc2lnbl9M/b2dvLnN2Zy5wbmc" alt="Material Angular" height="100">
-    </td>
-  <td align="center">
-      <strong>Git</strong><br>
-      <img src="https://imgs.search.brave.com/mV85qRj1fj9oRhGLOq0I_axKnmC0V54UuIagcQEQdHI/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9zdGF0/aWMtMDAuaWNvbmR1/Y2suY29tL2Fzc2V0/cy4wMC9naXQtaWNv/bi0yNTZ4MjU2LW5r/aTUxYWUzLnBuZw" alt="Git" height="100">
-    </td>
-     <td align="center">
-      <strong>Redux</strong><br>
-      <img src="https://cdn.freebiesupply.com/logos/large/2x/redux-logo-svg-vector.svg" alt="Redux" height="100">
     </td>
   </tr>
 </table>
