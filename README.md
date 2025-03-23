@@ -1,7 +1,6 @@
 <div align="center">
   <!-- <h1 align="center">¡Hola, soy Carlos Caño 😁!</h1> -->
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=2500&pause=30000&color=5190F7&width=435&lines=%C2%A1Hola%2C+soy+Carlos+Ca%C3%B1o+%F0%9F%98%81!" alt="Typing SVG" />
- </a> 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=2500&pause=10000&color=5190F7&repeat=false&width=435&lines=%C2%A1Hola%2C+soy+Carlos+Ca%C3%B1o+%F0%9F%98%81!" alt="Typing SVG" /></a>
   <h3 align="center">Estoy cursando actualmente un máster universitario de informática móvil (MIMO). Graduado en ingeniería informática en mención del software en la UPSA. De Salamanca, España.</h3>
 
 <h2 align="center">
