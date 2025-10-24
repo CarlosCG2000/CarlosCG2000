@@ -40,7 +40,7 @@
     <tr>
       <td align="center">
         <strong>Node.js</strong><br>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="Node.js" height="100">
+        <img src="[https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg](https://images-cdn.openxcell.com/wp-content/uploads/2024/07/25090553/nodejs-inner.webp)" alt="Node.js" height="100">
       </td>
       <td align="center">
         <strong>Swift</strong><br>
