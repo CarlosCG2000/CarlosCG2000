@@ -40,7 +40,7 @@
     <tr>
       <td align="center">
         <strong>Node.js</strong><br>
-        <img src="[https://static-00.iconduck.com/assets.00/node-js-icon-454x512-nztofx17.png](https://www.mindrops.com/js-stack-development/node-js)" alt="Node.js" height="100">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="Node.js" height="100">
       </td>
       <td align="center">
         <strong>Swift</strong><br>
@@ -66,7 +66,7 @@
       </td>
       <td align="center">
         <strong>Git</strong><br>
-        <img src="https://www.hackeruna.com/2017/11/19/manejo-de-ramas-de-desarrollo-con-git/" alt="Git" height="100">
+        <img src="https://git-for-windows.github.io/img/git_logo.png" alt="Git" height="100">
       </td>
        <td align="center">
         <strong>Redux</strong><br>
